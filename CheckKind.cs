@@ -15,7 +15,7 @@ public enum CheckKind
   During, 
   Between, 
   DependsOn, 
-  Affets, 
+  Affects, 
   Causes, 
   ResultsIn, 
   Changes, 
