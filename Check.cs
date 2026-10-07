@@ -1,6 +1,3 @@
-No notes, no comments — just the cleaned version:
-
-```csharp
 namespace LocalAI.Core;
 
 public record Check(CheckKind Kind, Quantifier Quant, params string[] Args)
@@ -100,4 +97,3 @@ public record Check(CheckKind Kind, Quantifier Quant, params string[] Args)
         };
     }
 }
-```
