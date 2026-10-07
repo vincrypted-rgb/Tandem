@@ -21,5 +21,5 @@ public enum CheckKind
   Changes, 
   Remains, 
   Internal, 
-  External
+  External,
 }
